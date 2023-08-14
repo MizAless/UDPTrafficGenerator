@@ -1,0 +1,15 @@
+C:\Users\alexe\source\repos\UDPTrafficGenerator\UDPTrafficGenerator\bin\Debug\net6.0\UDPTrafficGenerator.exe
+C:\Users\alexe\source\repos\UDPTrafficGenerator\UDPTrafficGenerator\bin\Debug\net6.0\UDPTrafficGenerator.deps.json
+C:\Users\alexe\source\repos\UDPTrafficGenerator\UDPTrafficGenerator\bin\Debug\net6.0\UDPTrafficGenerator.runtimeconfig.json
+C:\Users\alexe\source\repos\UDPTrafficGenerator\UDPTrafficGenerator\bin\Debug\net6.0\UDPTrafficGenerator.dll
+C:\Users\alexe\source\repos\UDPTrafficGenerator\UDPTrafficGenerator\bin\Debug\net6.0\UDPTrafficGenerator.pdb
+C:\Users\alexe\source\repos\UDPTrafficGenerator\UDPTrafficGenerator\obj\Debug\net6.0\UDPTrafficGenerator.csproj.AssemblyReference.cache
+C:\Users\alexe\source\repos\UDPTrafficGenerator\UDPTrafficGenerator\obj\Debug\net6.0\UDPTrafficGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexe\source\repos\UDPTrafficGenerator\UDPTrafficGenerator\obj\Debug\net6.0\UDPTrafficGenerator.AssemblyInfoInputs.cache
+C:\Users\alexe\source\repos\UDPTrafficGenerator\UDPTrafficGenerator\obj\Debug\net6.0\UDPTrafficGenerator.AssemblyInfo.cs
+C:\Users\alexe\source\repos\UDPTrafficGenerator\UDPTrafficGenerator\obj\Debug\net6.0\UDPTrafficGenerator.csproj.CoreCompileInputs.cache
+C:\Users\alexe\source\repos\UDPTrafficGenerator\UDPTrafficGenerator\obj\Debug\net6.0\UDPTrafficGenerator.dll
+C:\Users\alexe\source\repos\UDPTrafficGenerator\UDPTrafficGenerator\obj\Debug\net6.0\refint\UDPTrafficGenerator.dll
+C:\Users\alexe\source\repos\UDPTrafficGenerator\UDPTrafficGenerator\obj\Debug\net6.0\UDPTrafficGenerator.pdb
+C:\Users\alexe\source\repos\UDPTrafficGenerator\UDPTrafficGenerator\obj\Debug\net6.0\UDPTrafficGenerator.genruntimeconfig.cache
+C:\Users\alexe\source\repos\UDPTrafficGenerator\UDPTrafficGenerator\obj\Debug\net6.0\ref\UDPTrafficGenerator.dll
